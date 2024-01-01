@@ -40,6 +40,9 @@
     font-size: 18px;
     border-radius: 5px;
     position: relative; 
+    
+
+
 }
 .input-box button{
     background: #ffff76;
@@ -62,5 +65,12 @@
     background-position: calc(100%-10px);
     background-size: 30px;
     cursor: pointer;
+    align-items: center;
+}
+#result{
+    font-size: 20px;
+}
+#result span{
+    color:#ffff76;
 }
 
